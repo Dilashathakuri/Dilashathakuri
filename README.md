@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello, I'm Dilasha Thakuri, a vibrant and ambitious individual currently embarking on my educational journey at British College in my first year. My story is one of passion, curiosity, and a relentless pursuit of knowledge.
+hello
+
 
 
 ## 🌐 Socials:
