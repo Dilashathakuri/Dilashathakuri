@@ -1,11 +1,11 @@
-# Dilasha Thakuri - Passionate Developer from Nepal 👩‍💻
+# Dilasha Thakuri - Passionate Developer from Nepal👩‍💻
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dilashathakuri&label=Profile%20views&color=0e75b6&style=flat" alt="dilashathakuri" />
 </p>
 
 ## Let's Connect 🌐
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:thakuridilasha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/dilashaaaaaaa">
@@ -29,6 +29,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilashathakuri&theme=omni&hide_border=false" alt="GitHub Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilashathakuri&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Dilashathakuri&theme=omni&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</p>
+
+### ✍️ Random Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </p>
 
 <picture>
